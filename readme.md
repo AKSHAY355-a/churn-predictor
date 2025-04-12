@@ -35,15 +35,16 @@ It uses a trained **Random Forest model** and a user-friendly interface to make 
 
 ## 📂 Project Structure
 churn-predictor/
-├── app.py
-├── screenshots
-    └──ui.png
-├── churn_model.pkl
-├── encoders.pkl
-├── features.pkl
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── requirements.txt ✅
-└── README.md
+├── app.py                    # Streamlit app code
+├── churn_model.pkl           # Trained ML model
+├── encoders.pkl              # LabelEncoders or OneHotEncoders
+├── features.pkl              # Features used during training
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Sample dataset (optional)
+├── requirements.txt          # Required Python libraries
+├── README.md                 # Project documentation
+├── screenshots/
+│   └── ui.png                # Screenshot of app interface
+
 ---
 
 ## ▶️ How to Run Locally
