@@ -34,6 +34,7 @@ It uses a trained **Random Forest model** and a user-friendly interface to make 
 ---
 
 ## 📂 Project Structure
+```
 churn-predictor/
 ├── app.py                    # Streamlit app code
 ├── churn_model.pkl           # Trained ML model
@@ -44,7 +45,7 @@ churn-predictor/
 ├── README.md                 # Project documentation
 ├── screenshots/
 │   └── ui.png                # Screenshot of app interface
-
+```
 ---
 
 ## ▶️ How to Run Locally
