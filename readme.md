@@ -34,8 +34,16 @@ It uses a trained **Random Forest model** and a user-friendly interface to make 
 ---
 
 ## 📂 Project Structure
-
-
+churn-predictor/
+├── app.py
+├── screenshots
+    └──ui.png
+├── churn_model.pkl
+├── encoders.pkl
+├── features.pkl
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── requirements.txt ✅
+└── README.md
 ---
 
 ## ▶️ How to Run Locally
