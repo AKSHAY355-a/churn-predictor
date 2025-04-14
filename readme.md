@@ -35,9 +35,9 @@ It uses a trained **Random Forest model** and a user-friendly interface to make 
 
 ---
 
-## Website link
-https://churn-predictor-iysqtzwuqp62cmf9tc3hrv.streamlit.app
+## 🌐 Website link
 
+https://churn-predictor-iysqtzwuqp62cmf9tc3hrv.streamlit.app
 
 ---
 
