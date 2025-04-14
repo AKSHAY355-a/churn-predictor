@@ -28,8 +28,16 @@ It uses a trained **Random Forest model** and a user-friendly interface to make 
 
 ## 📸 Screenshots
 
-### Web App Interface  
+### Web App Interface
 ![UI](screenshots/ui.png)
+
+---
+
+---
+
+## Website link
+https://churn-predictor-iysqtzwuqp62cmf9tc3hrv.streamlit.app
+
 
 ---
 
@@ -49,7 +57,7 @@ churn-predictor/
 ---
 
 ## ▶️ How to Run Locally
-
+ 
 ```bash
 # 1. Clone the Repository
 git clone https://github.com/AKSHAY355-a/churn-predictor.git
